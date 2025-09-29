@@ -1,0 +1,3 @@
+- https://www.contrastsecurity.com/glossary/application-attacks
+- https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks
+- https://www.imperva.com/learn/application-security/cyber-attack/
