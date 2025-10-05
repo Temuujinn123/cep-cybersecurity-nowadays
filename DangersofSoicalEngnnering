@@ -1,4 +1,4 @@
-# *The uprising threat of social enginnering attacks*
+# The uprising threat of social enginnering attacks
 Today the world relies on technology for a lot of work and the world to function. Not only do we spend a lot of time on soical media, but people and companies rely on 
 different services and software. Luckily teens and kids nowaday are born in the era of technology, they are more knowledgeable of the internet and how to spot 
 potential threats. This cannot be said the same for everyone. A lot of elderly or people who are not well educated in technology are at high risk of being targeted 
@@ -6,9 +6,17 @@ for a cyber attack. Con artist target these individuals and take advantage of th
 process.
 
 ## What is is social enginnering attack and what does it look like?
-An social enginnering attack involves one or scammers maniplulating the victim into giving up vital information such as bank details, SIN number, login credentials. 
+Social enginnering attack involves one or scammers maniplulating the victim into giving up vital information such as bank details, SIN number, login credentials. 
 They achieve this by having the victim download some suspicious softwares which could lead to various different types of malware, have they viste dangerous sites, or
 have the victim themselves give up their credentials through various means. Social enginnering attack dones't necessarily have to take place in the web all the time,
 they could be in person too!. And with how rapid ai is evolving and growing, it has certainly became a part a much more powerful tool for deception. Here are some 
-examples of different attacks:
-- 
+common examples of different attacks:
+- Phishing which involves using messages to get the victim to share sensitive information
+- Baiting which invloves the promise of a reward in exchange of sensitive information
+- Scareware which involves a malware that scares the user to give up sensistive information by pretending to be some type of higher authority or support
+- Ai base attack which involves using ai deepfake to generate videos of trusted individuals or mimic their voice
+
+### Even companies are not safe 
+Scammers don't just target indviduals, but companies as well. Sometimes it's better to target companies as they offer better rewards even if the risk of getting caught
+is higher. This can have devasting impact for the companies and more importantant their consumers. In 2025 their were 14 data breaches involving more then 1 million 
+healthcare records. This affected over 20 million U.S residents. This was done through a combination of ransonware and phishing attacks. 
