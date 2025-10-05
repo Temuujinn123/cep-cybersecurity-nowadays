@@ -12,14 +12,37 @@ The global cost of cyber attacks is expected to grow by 15% per year and is expe
 
 The average cost of a data breach in the US is $3.8 million. Another alarming statistic is that public companies lose an average of 8% of their stock value after a successful breach.
 
-## 6 Types of Cyber Attack
+## 7 Types of Cyber Attack
 
-- Ransomware
-- Malware
-- DoS and DDoS attacks
-- Phishing and Social Engineering Attacks
-- MitM Attacks
-- Fileless Attack
+### 1. Ransomware
+
+Ransomware is malware that uses encryption to deny access to resources, usually in an attempt to compel the victim to pay a ransom. Once has been infected the victim must either pay or use backups to restore them.
+
+### 2. Malware
+
+There are many types of malware. Malware can be used for a range of objectives from stealing information, to defacing or altering web content, to damaging a computing system permanently.
+
+### 3. DoS and DDoS attacks
+
+Denial-of-service (DoS) attacks overwhelm the target system so it cannot respond to legitimate requests. Distributed denial-of-service (DDoS) attacks are similar but involve multiple host machines. The target site is flooded with illegitimate service requests and is forced to deny service to legitimate users.
+
+### 4. Phishing Attack
+
+Phishing attack occur when a malicious attacker obtains sensetive information from target and sends a message that appears to be from a trusted and legitimate source. The name "phishing" alludes to the fact that attackers are "fishing" for access or sensitive information, baiting the unsuspecting user with an emotional hook and a trusted identity.
+
+### 5. Social Engineering Attack
+
+Social engineering is an attack vector that relies heavily on human interaction, used in over 90% of cyberattacks. It involves impersonating a trusted person or entity, and tricking individuals into granting an attacker sensitive information, transferring funds, or providing access to systems or networks.
+
+### 6. MitM Attacks
+
+Man-in-the-Middle (MitM) attackers are breaches that allow attackers to intercept the data transmitted between networks, computers or users. That attacker is positioned in the "middle" of the two parties and can spy on their communication, often without being detected. The attacker can also modify messages before sending them on to the intended recipient.
+
+### 7. Fileless Attack
+
+Fileless attacks are a new type of malware attack, which takes advantage of applications already installed on a user's device. Unlike traditional malware, which needs to eploy itself on a target machine, fileless attacks use already installed applications that are considered safe, and so are undetectable by legacy antivirus tools.
+
+Fileless malware attacks can be triggered by user-initiated actions, or may be triggered with no user action, by exploiting operating system vulnerabilities. Fileless malware resides in the device's RAM and typically access native operating system tools, like PowerShell and Windows Management Instrumentation (WMI) to inject malicious code.
 
 ## Cyber Attack Prevention: Common Cybersecurity Solution
 
