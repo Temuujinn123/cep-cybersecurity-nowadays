@@ -51,4 +51,4 @@
 - **Broader trend**: Fits into a rising pattern of ransomware and extortion attacks in the UK affecting businesses, infrastructure, and supply chains.
 
 ### Reference website:
-🔗 [London nurseries hit by hackers, data on 8,000 children stolen]([https://www.brightdefense.com/resources/recent-data-breaches](https://www.reuters.com/world/uk/london-nurseries-hit-by-hackers-data-8000-children-stolen-2025-09-26/))
+🔗 [London nurseries hit by hackers, data on 8,000 children stolen](https://www.reuters.com/world/uk/london-nurseries-hit-by-hackers-data-8000-children-stolen-2025-09-26/)
