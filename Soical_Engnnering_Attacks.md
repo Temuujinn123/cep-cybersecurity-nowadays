@@ -1,16 +1,12 @@
 # The uprising threat of social engineering attacks
-Today the world relies on technology for a lot of work and the world to function. Not only do we spend a lot of time on social media, but people and companies rely on 
-different services and software. Luckily teens and kids nowadays are born in the era of technology, they are more knowledgeable of the internet and how to spot 
+Today the world relies on technology for a lot of work and the world to function. Not only do we spend a lot of time on social media, but people and companies rely on different services and software. Luckily teens and kids nowadays are born in the era of technology, they are more knowledgeable of the internet and how to spot 
 potential threats. This cannot be said the same for everyone. A lot of elderly or people who are not well educated in technology are at high risk of being targeted 
-for a cyber attack. Con artists target these individuals and take advantage of their kindness and lack of knowledge for financial gains while harming the victim in the 
-process.
+for a cyber attack. Con artists target these individuals and take advantage of their kindness and lack of knowledge for financial gains while harming the victim in the process.
 
 ## What is social engineering attack and what does it look like?
 Social engineering attack involves one or scammers manipulating the victim into giving up vital information such as bank details, SIN number, login credentials. 
 They achieve this by having the victim download some suspicious software's which could lead to various types of malwares, have them visit dangerous sites, or
-have the victim themselves give up their credentials through various means. Social engineering attack doesn't necessarily have to take place on the web all the time,
-they could be in person too! And with how rapid ai is evolving and growing, it has certainly become a part of a much more powerful tool for deception. Here are some 
-common examples of different attacks:
+have the victim themselves give up their credentials through various means. Social engineering attack doesn't necessarily have to take place on the web all the time, they could be in person too! And with how rapid ai is evolving and growing, it has certainly become a part of a much more powerful tool for deception. Here are some common examples of different attacks:
 - Phishing which involves using messages to get the victim to share sensitive information
 - Baiting which involves the promise of a reward in exchange of sensitive information
 - Scareware which involves a malware that scares the user to give up sensistive information by pretending to be some type of higher authority or support
