@@ -26,9 +26,9 @@ There are various signs to look out for, some obvious and some not so much. But 
 - People claiming to be government personnel
 - Unknown QR codes
 - Bad spelling and grammars 
-- Login pages from unknown sites 
-What are some ways to protect ourselves? The best thing to do is always do research beforehand and be vigilant. Never blindly trust everything you see. Here are
-other ways to protect yourself:
+-Login pages from unknown sites 
+## What are some ways to protect ourselves? 
+The best thing to do is always do research beforehand and be vigilant. Never blindly trust everything you see. Here are ways to protect yourself:
 - Contact the organization the person is claiming to be
 - Install security tools like antiviruses 
 - Backup your files regularly
