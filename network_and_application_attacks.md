@@ -46,13 +46,33 @@ Fileless malware attacks can be triggered by user-initiated actions, or may be t
 
 ## Cyber Attack Prevention: Common Cybersecurity Solution
 
-- Web Application Firewall (WAF)
-- DDoS Protection
-- Bot Protection
-- Cloud Security
-- Database Security
-- API Security
-- Threat Intelligence
+### Web Application Firewall (WAF)
+
+Protects the web application by analyzing HTTP request. If the request is malicious, firewall stops the request from entering the server.
+
+### DDoS Protection
+
+DDoS protection solution can protect a network or server from denial of service attacks. This protection system or service monitors traffic to detect a DDoS attack pattern, and distinguish legitimate from malicious traffic.
+
+### Bot Protection
+
+A bot protection system detects and blocks bad bots, while allowing legitimate bots to perform activities like search indexing, testing and performance monitoring. It does this by maintaining a large database of known bot sources, and detecting behavior patterns that might indicate a bot is malicious.
+
+### Cloud Security
+
+In cloud systems there is first-party cloud security tools, but they are limited, and there is no guarantee that they are being used properly and all cloud resources are really secured. Many organizations use dedicated cloud security solutions to ensure that all sensitive assets deployed in the cloud are properly protected.
+
+### Database Security
+
+Database security solutions can help ensure a consistent level of security for databases across the organization. They can help prevent issues like excessive privileges, unpatched vulnerabilities in database engines, unprotected sensitive data, and database injection.
+
+### API Security
+
+Securing APIs requires a variety of measures, including strong multi factor authentication (MFA), secure use of authentication tokens, encryption of data in transit, and sanitization of user inputs to prevent injection attacks. API solutions can help enforce these security controls for APIs in a centralized manner.
+
+### Threat Intelligence
+
+Threat intelligence solutions gather data from a large number of feeds and information sources, and allows an organization to quickly indicators of compromise (IOCs), use them to identify attacks, understand the motivation and mode of operation of the threat actor, and design an appropriate response.
 
 ## Cyber Attack Example
 
