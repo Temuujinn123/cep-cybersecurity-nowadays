@@ -16,7 +16,7 @@
 **Access controls: Applying the principle of least privilege and regularly reviewing access permissions to ensure that employees only have access to the resources necessary for their job functions**
 **Regular audits and training: Conducting comprehensive security audits and providing ongoing security awareness training to educate employees about the indicators of insider threats and the importance of following organizational security policies** 
 
-**Mitigation strategies include the following:
+**Mitigation strategies include the following:**
 
 **For nation-state threats: Strengthening national cybersecurity policies, enhancing international cooperation and developing counter-cyber espionage strategies are critical. Organizations should also invest in cybersecurity intelligence to stay ahead of new threats posed by foreign governments.**
 **For insider threats: Establishing a clear policy that outlines acceptable and secure behaviors, integrating robust data loss prevention (DLP) technologies and maintaining an up-to-date incident response plan that includes provisions for insider incidents.**
