@@ -21,4 +21,4 @@
 **For nation-state threats: Strengthening national cybersecurity policies, enhancing international cooperation and developing counter-cyber espionage strategies are critical. Organizations should also invest in cybersecurity intelligence to stay ahead of new threats posed by foreign governments.**
 **For insider threats: Establishing a clear policy that outlines acceptable and secure behaviors, integrating robust data loss prevention (DLP) technologies and maintaining an up-to-date incident response plan that includes provisions for insider incidents.**
 
-**Link where the info is taken from (https://onlinedegrees.sandiego.edu/top-cyber-security-threats/)**
+
